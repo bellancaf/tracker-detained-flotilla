@@ -5,6 +5,16 @@ const prisma = new PrismaClient()
 async function main() {
   console.log('Seeding database...')
 
+  // Create a sample mission first
+  const mission = await prisma.mission.create({
+    data: {
+      name: 'Global Sumud Flotilla',
+      description: 'International solidarity mission to support Palestinian rights'
+    }
+  })
+
+  console.log(`Created mission: ${mission.name}`)
+
   // Create sample activists
   const activists = await Promise.all([
     prisma.activist.create({
@@ -12,7 +22,8 @@ async function main() {
         name: 'Ahmed Hassan',
         nationality: 'Palestinian',
         boatName: 'Sumud',
-        status: 'detained'
+        status: 'detained',
+        missionId: mission.id
       }
     }),
     prisma.activist.create({
@@ -20,7 +31,8 @@ async function main() {
         name: 'Maria Rodriguez',
         nationality: 'Spanish',
         boatName: 'Freedom',
-        status: 'released'
+        status: 'released',
+        missionId: mission.id
       }
     }),
     prisma.activist.create({
@@ -28,7 +40,8 @@ async function main() {
         name: 'John Smith',
         nationality: 'American',
         boatName: 'Hope',
-        status: 'missing'
+        status: 'missing',
+        missionId: mission.id
       }
     }),
     prisma.activist.create({
@@ -36,7 +49,8 @@ async function main() {
         name: 'Fatima Al-Zahra',
         nationality: 'Lebanese',
         boatName: 'Sumud',
-        status: 'safe'
+        status: 'safe',
+        missionId: mission.id
       }
     })
   ])
