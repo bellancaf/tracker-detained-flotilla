@@ -22,10 +22,10 @@ async function main() {
     // First, ensure missions exist
     console.log('🎯 Setting up missions...')
     await prisma.$executeRaw`
-      INSERT INTO missions (id, name, description) 
+      INSERT INTO missions (id, name, description, created_at, updated_at) 
       VALUES 
-        (gen_random_uuid()::text, 'Sumud Flotilla', 'The Sumud Flotilla mission to Gaza'),
-        (gen_random_uuid()::text, 'Thousands Medleens', 'The Thousands Medleens mission')
+        (gen_random_uuid()::text, 'Sumud Flotilla', 'The Sumud Flotilla mission to Gaza', NOW(), NOW()),
+        (gen_random_uuid()::text, 'Thousands Medleens', 'The Thousands Medleens mission', NOW(), NOW())
       ON CONFLICT (name) DO NOTHING;
     `
 
