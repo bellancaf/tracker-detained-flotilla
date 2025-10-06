@@ -110,33 +110,11 @@ async function main() {
             const result = await prisma.$executeRaw`
               INSERT INTO activists (id, name, nationality, boat_name, status, video_url, mission_id, created_at, updated_at)
               VALUES (gen_random_uuid()::text, ${activistData.name}, ${activistData.nationality}, ${activistData.boatName}, ${activistData.status}, ${activistData.videoUrl}, ${activistData.missionId}, NOW(), NOW())
-              ON CONFLICT (name) 
-              DO UPDATE SET 
-                nationality = EXCLUDED.nationality,
-                boat_name = EXCLUDED.boat_name,
-                status = EXCLUDED.status,
-                video_url = EXCLUDED.video_url,
-                mission_id = EXCLUDED.mission_id,
-                updated_at = NOW()
               RETURNING id, created_at;
             `
             
-            // Check if this was an update or create by checking the created_at timestamp
-            const activist = await prisma.$queryRaw`
-              SELECT created_at FROM activists WHERE name = ${activistData.name} LIMIT 1;
-            ` as any[]
-            
-            if (activist.length > 0) {
-              const createdAt = new Date(activist[0].created_at)
-              const now = new Date()
-              const timeDiff = now.getTime() - createdAt.getTime()
-              
-              if (timeDiff < 5000) { // Created within last 5 seconds
-                imported++
-              } else {
-                updated++
-              }
-            }
+            // Since we're just inserting (no conflicts), this is always a new record
+            imported++
           } catch (error) {
             console.error(`Error processing activist ${activistData.name}:`, error)
             skipped++
