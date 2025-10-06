@@ -25,7 +25,7 @@ model Mission {
 
 model Activist {
   id          String   @id @default(cuid())
-  name        String   @unique
+  name        String
   nationality String
   boatName    String   @map("boat_name")
   status      String   // e.g., "detained", "released", "missing", etc.
