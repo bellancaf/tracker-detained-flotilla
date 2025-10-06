@@ -1,0 +1,41 @@
+{
+  "name": "tracker-detained-flotilla",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:studio": "prisma studio",
+    "db:seed": "tsx scripts/seed.ts",
+    "db:seed:missions": "tsx scripts/seed-missions.ts",
+    "db:migrate:missions": "tsx scripts/migrate-to-missions.ts",
+    "db:setup": "tsx scripts/setup.ts",
+    "db:import": "tsx scripts/import-activists.ts",
+    "db:import:clear": "tsx scripts/import-activists.ts --clear",
+    "db:import:update": "tsx scripts/import-activists.ts",
+    "setup": "npm run db:generate && npm run db:push && npm run db:setup"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.7.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "next": "14.0.4",
+    "postcss": "^8",
+    "react": "^18",
+    "react-dom": "^18",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  },
+  "devDependencies": {
+    "prisma": "^5.7.1",
+    "tsx": "^4.6.2"
+  }
+}

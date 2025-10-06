@@ -1,0 +1,5473 @@
+[
+  {
+    "name": "Maria Celeste Fierro",
+    "country": "Argentina",
+    "vessel": "Adara",
+    "notes": "Buenos Aires legislator",
+    "refs": [
+      "6",
+      "15"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "AR"
+  },
+  {
+    "name": "Carlos Antonio Bertola", 
+    "country": "Argentina",
+    "vessel": "Estrella Y Manuel",
+    "notes": "Estrella",
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "AR"
+  },
+  {
+    "name": "Jorge Ezequiel Peressini",
+    "country": "Argentina", 
+    "vessel": "Sirius",
+    "notes": "Córdoba deputy",
+    "refs": [
+      "6",
+      "15"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "AR"
+  },
+  {
+    "name": "Bianca Pullman",
+    "country": "Australia",
+    "vessel": "Florida",
+    "notes": "Florida",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Surya McEwen",
+    "country": "Australia",
+    "vessel": "Miamia",
+    "notes": "activist",
+    "refs": [
+      "16"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "AU"
+  },
+  {
+    "name": "Abubakir Rafiq",
+    "country": "Australia",
+    "vessel": "Spectre",
+    "notes": "Spectre",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Hamish Paterson",
+    "country": "Australia",
+    "vessel": "Wahoo",
+    "notes": "Wahoo",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Juliet Lamont",
+    "country": "Australia",
+    "vessel": "Wahoo",
+    "notes": "Documentary filmmaker",
+    "refs": [
+      "6"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "AU"
+  },
+  {
+    "name": "Julian Scheutter",
+    "country": "Austria",
+    "vessel": "Seulle",
+    "notes": "Seulle",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Erol Buyuk",
+    "country": "Austria",
+    "vessel": "Grande Blu",
+    "notes": "Grande Blu",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "AT"
+  },
+  {
+    "name": "Maria-Sophie Hehle",
+    "country": "Austria",
+    "vessel": "Free Willy",
+    "notes": "Free Willy",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "AT"
+  },
+  {
+    "name": "Ashraf Abdelrahman",
+    "country": "Austria",
+    "vessel": "Maria Cristina",
+    "notes": "Maria Cristina",
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "AT"
+  },
+  {
+    "name": "Mohamed Abdulla Mohamed Husain Mohamed",
+    "country": "Bahrain",
+    "vessel": "Yulara",
+    "notes": "Yulara",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "BH"
+  },
+  {
+    "name": "Sami Abulaziz Hasan Ebrahim",
+    "country": "Bahrain",
+    "vessel": "Meteque",
+    "notes": "Meteque",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "BH"
+  },
+  {
+    "name": "Navid Lari",
+    "country": "Belgium",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "BE"
+  },
+  {
+    "name": "Saddie Choua",
+    "country": "Belgium",
+    "vessel": "Estrella Y Manuel",
+    "notes": "Estrella",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "BE"
+  },
+  {
+    "name": "Alexis Deswaef",
+    "country": "Belgium",
+    "vessel": "Jeannot III",
+    "notes": "Jeannot III",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Latifa Khlifi",
+    "country": "Belgium",
+    "vessel": "Spectre",
+    "notes": "Spectre",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Thiago Ávila",
+    "country": "Brazil",
+    "vessel": "Alma",
+    "notes": "activist, steering committee member",
+    "refs": [
+      "17",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mariana Conti",
+    "country": "Brazil",
+    "vessel": "Sirius",
+    "notes": "City councilor (Campinas, São Paulo), participant",
+    "refs": [
+      "18",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Bruno Gilga Rocha",
+    "country": "Brazil",
+    "vessel": "Sirius",
+    "notes": "coordinator / spokesperson of Brazilian delegation",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Lucas Farias Gusmão",
+    "country": "Brazil",
+    "vessel": "Yulara",
+    "notes": "activist / delegation member",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "BR"
+  },
+  {
+    "name": "João Aguiar",
+    "country": "Brazil",
+    "vessel": "Mikeno",
+    "notes": "activist",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mohamad El Kadri",
+    "country": "Brazil",
+    "vessel": "Spectre",
+    "notes": "activist",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Magno Carvalho Costa",
+    "country": "Brazil",
+    "vessel": "Sirius",
+    "notes": "activist",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Ariadne Telles",
+    "country": "Brazil",
+    "vessel": "Adara",
+    "notes": "participant",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Lisiane Proença",
+    "country": "Brazil",
+    "vessel": "Sirius",
+    "notes": "activist",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Victor Nascimento Peixoto",
+    "country": "Brazil",
+    "vessel": "Adara",
+    "notes": "delegation member",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": true,
+    "country_code": "BR"
+  },
+  {
+    "name": "Luizianne Lins",
+    "country": "Brazil",
+    "vessel": "Grande Blu",
+    "notes": "federal lawmaker",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Miguel Bastos Viveiros De Castro",
+    "country": "Brazil",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "BR"
+  },
+  {
+    "name": "Gabrielle da Silva Tolotti",
+    "country": "Brazil",
+    "vessel": "Spectre",
+    "notes": "president of PSOL-RS",
+    "refs": [
+      "11",
+      "6"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "BR"
+  },
+  {
+    "name": "Vasil Dimitrov",
+    "country": "Bulgaria",
+    "vessel": "Grande Blu",
+    "notes": "Grande Blu",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Morana Miljanović",
+    "country": "Croatia",
+    "vessel": "Shireen",
+    "notes": "Shireen",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sarka Prikylova",
+    "country": "Czech Republic",
+    "vessel": "Aurora",
+    "notes": "Aurora",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Julia Nina Petersen",
+    "country": "Denmark",
+    "vessel": "Adara",
+    "notes": "Nina",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "DK"
+  },
+  {
+    "name": "Shifa Abdi",
+    "country": "Finland",
+    "vessel": "Florida",
+    "notes": "Florida",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Kata-Riina Tikka",
+    "country": "Finland",
+    "vessel": "Inana",
+    "notes": "Inana",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "FI"
+  },
+  {
+    "name": "Iida-Liina Hakkinen",
+    "country": "Finland",
+    "vessel": "Ohwayla",
+    "notes": "Ohwayla",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Kaba Assefa",
+    "country": "Finland",
+    "vessel": "Shireen",
+    "notes": "Shireen",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Juho Henrik Pirhonen",
+    "country": "Finland",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "FI"
+  },
+  {
+    "name": "Emma Fourreau",
+    "country": "France",
+    "vessel": "Alma",
+    "notes": "Member of European Parliament/activist",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "FR"
+  },
+  {
+    "name": "Rima Hassan",
+    "country": "France",
+    "vessel": "Captain Nikos",
+    "notes": "Member of European Parliament",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "FR"
+  },
+  {
+    "name": "Yasemin Acar",
+    "country": "Germany",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "DE"
+  },
+  {
+    "name": "Maria Dipla",
+    "country": "Greece",
+    "vessel": "Oxygono",
+    "notes": "[6]",
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "GR"
+  },
+  {
+    "name": "Theopisti Perka",
+    "country": "Greece",
+    "vessel": "Oxygono",
+    "notes": "[6]",
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "GR"
+  },
+  {
+    "name": "Chris Andrews",
+    "country": "Ireland",
+    "vessel": "Spectre",
+    "notes": "senator for Sinn Féin",
+    "refs": [
+      "10",
+      "22"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Tadhg Hickey",
+    "country": "Ireland",
+    "vessel": "Meteque",
+    "notes": "Comedian",
+    "refs": [
+      "10",
+      "22"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Colm Byrne",
+    "country": "Ireland",
+    "vessel": "Hio",
+    "notes": "Hio",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Cormac O'Daly",
+    "country": "Ireland",
+    "vessel": "Yulara",
+    "notes": "Yulara",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Tara O'Grady",
+    "country": "Ireland",
+    "vessel": "Alma",
+    "notes": "Alma",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IE"
+  },
+  {
+    "name": "Caitríona Graham",
+    "country": "Ireland",
+    "vessel": "Aurora",
+    "notes": "Aurora",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Louise Heaney",
+    "country": "Ireland",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": "Dir Yassine",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IE"
+  },
+  {
+    "name": "Thomas McCune",
+    "country": "Ireland",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Dairmuod Mac Dubhghlais",
+    "country": "Ireland",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sarah Clancy",
+    "country": "Ireland",
+    "vessel": "Spectre",
+    "notes": "Spectre",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Donna Marie Schwarz",
+    "country": "Ireland",
+    "vessel": "Amsterdam",
+    "notes": "Trade unionist and member of Fórsa",
+    "refs": [
+      "24"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "IE"
+  },
+  {
+    "name": "Patrick O'Donovan",
+    "country": "Ireland",
+    "vessel": "Fair Lady",
+    "notes": "Fair Lady",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mary Almai (Maureen)",
+    "country": "Ireland",
+    "vessel": "Paola I",
+    "notes": "Paola I",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Tara Rose Sheehy",
+    "country": "Ireland",
+    "vessel": "Ohwayla",
+    "notes": "Ohwayla",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IE"
+  },
+  {
+    "name": "Benedetta Scuderi",
+    "country": "Italy",
+    "vessel": "Morgana",
+    "notes": "MEP (Green/Left Alliance)",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Arturo Scotto",
+    "country": "Italy",
+    "vessel": "Karma",
+    "notes": "Deputy (PD)",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Annalisa Corrado",
+    "country": "Italy",
+    "vessel": "Karma",
+    "notes": "MEP",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Fabrizio De Luca",
+    "country": "Italy",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Paolo De Montis",
+    "country": "Italy",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Ruggero Zeni",
+    "country": "Italy",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Silvia Severini",
+    "country": "Italy",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Barbara Schiavulli",
+    "country": "Italy",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Jose Nivoi",
+    "country": "Italy",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Lorenzo D'Agostino",
+    "country": "Italy",
+    "vessel": "Hio",
+    "notes": "[8]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Emanuela Pala",
+    "country": "Italy",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "IT"
+  },
+  {
+    "name": "Luca Poggi",
+    "country": "Italy",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "IT"
+  },
+  {
+    "name": "Adriano Veneziani",
+    "country": "Italy",
+    "vessel": "Otaria",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Alessandro Mantovani",
+    "country": "Italy",
+    "vessel": "Otaria",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Cesare Tofani",
+    "country": "Italy",
+    "vessel": "Otaria",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Dario Crippa",
+    "country": "Italy",
+    "vessel": "Otaria",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "IT"
+  },
+  {
+    "name": "Giorgio Patti",
+    "country": "Italy",
+    "vessel": "Otaria",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Manuel Pietrangeli",
+    "country": "Italy",
+    "vessel": "Otaria",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Antonio La Piccirella",
+    "country": "Italy",
+    "vessel": "Alma",
+    "notes": "[25]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "IT"
+  },
+  {
+    "name": "Mikako Yasumura",
+    "country": "Japan",
+    "vessel": "Meteque",
+    "notes": "Meteque",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "JP"
+  },
+  {
+    "name": "Abdulla Ghabbash",
+    "country": "Jordan",
+    "vessel": "Alma",
+    "notes": "Alma",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Samia Abdallah",
+    "country": "Jordan",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Abdel Rahman Ghazal",
+    "country": "Jordan",
+    "vessel": "Spectre",
+    "notes": "Spectre",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mohammad Jamal",
+    "country": "Kuwait",
+    "vessel": "Allakatalla",
+    "notes": "Allakatalla",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Abdullah Al Mutawa",
+    "country": "Kuwait",
+    "vessel": "Spectre",
+    "notes": "Spectre",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Khalid Alabduljader",
+    "country": "Kuwait",
+    "vessel": "Spectre",
+    "notes": "Spectre",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Aleksandras Chchlovskij",
+    "country": "Lithuania",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Nora Rosa Huberty",
+    "country": "Luxembourg",
+    "vessel": "Miamia",
+    "notes": "Miamia",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Nadir Al-Nuri",
+    "country": "Malaysia",
+    "vessel": "Jong",
+    "notes": "Steering committee member, Director-General of Sumud Nusantara / organiser from \"Cinta Gaza Malaysia",
+    "refs": [
+      "30",
+      "31"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Zainal Rashid Ahmad",
+    "country": "Malaysia",
+    "vessel": "Fair Lady",
+    "notes": "Journalist and author",
+    "refs": [
+      "32"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Zizi Kirana",
+    "country": "Malaysia",
+    "vessel": "Huga",
+    "notes": "Singer",
+    "refs": [
+      "33"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Serieffa Mushtafa Albakry",
+    "country": "Malaysia",
+    "vessel": "Jong",
+    "notes": "Journalist from TV Alhijrah",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mazian Seman",
+    "country": "Malaysia",
+    "vessel": "Jong",
+    "notes": "Camerawoman from TV Alhijrah",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Muhammad Abdullah (Ustaz Mad Kechik)",
+    "country": "Malaysia",
+    "vessel": "Fair Lady",
+    "notes": "Fair Lady",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Musa Nuwayri [ms]",
+    "country": "Malaysia",
+    "vessel": "Alma",
+    "notes": "Alma",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Iylia Balqis",
+    "country": "Malaysia",
+    "vessel": "Alma",
+    "notes": "Alma",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sul Aidil",
+    "country": "Malaysia",
+    "vessel": "Alma",
+    "notes": "Alma",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Ardell Aryana [ms]",
+    "country": "Malaysia",
+    "vessel": "Mikeno",
+    "notes": "Mikeno",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Razali Awang",
+    "country": "Malaysia",
+    "vessel": "Inana",
+    "notes": "Inana",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Haikal Abdullah",
+    "country": "Malaysia",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Muaz Zainal Abiddin",
+    "country": "Malaysia",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Zulfadhli Khairudin",
+    "country": "Malaysia",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Rusydi Ramli",
+    "country": "Malaysia",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Danish Nazram",
+    "country": "Malaysia",
+    "vessel": "Grande Blu",
+    "notes": "Grande Blu",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Farah Lee",
+    "country": "Malaysia",
+    "vessel": "Grande Blu",
+    "notes": "Grande Blu",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Muhammad Hareez Adzrami (Haroqs)",
+    "country": "Malaysia",
+    "vessel": "Free Willy",
+    "notes": "Free Willy",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Dr. Taufiq Razif",
+    "country": "Malaysia",
+    "vessel": "Free Willy",
+    "notes": "Free Willy",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Haikal Zulkefli",
+    "country": "Malaysia",
+    "vessel": "Free Willy",
+    "notes": "Free Willy",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Heliza Helmi",
+    "country": "Malaysia",
+    "vessel": null,
+    "notes": "Hio",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Hazwani Helmi",
+    "country": "Malaysia",
+    "vessel": "Hio",
+    "notes": "Hio",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Vall Mohmeden",
+    "country": "Mauritania",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": "Dir Yassine (Mali)",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "MR"
+  },
+  {
+    "name": "Ernesto Ledesma",
+    "country": "Mexico",
+    "vessel": "Ohwayla",
+    "notes": "Journalist",
+    "refs": [
+      "41"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sol González Eguia",
+    "country": "Mexico",
+    "vessel": "Adara",
+    "notes": "Psychologist",
+    "refs": [
+      "42"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "MX"
+  },
+  {
+    "name": "Carlos Pérez Osorio",
+    "country": "Mexico",
+    "vessel": "Hio",
+    "notes": "Film director",
+    "refs": [
+      "43",
+      "42"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "MX"
+  },
+  {
+    "name": "Arlin Medrano",
+    "country": "Mexico",
+    "vessel": "Adara",
+    "notes": "Journalist",
+    "refs": [
+      "42"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Diego Vázquez",
+    "country": "Mexico",
+    "vessel": "Fair Lady",
+    "notes": "Artist",
+    "refs": [
+      "44"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Laura Vélez",
+    "country": "Mexico",
+    "vessel": "Wahoo",
+    "notes": "Biomedical engineer",
+    "refs": [
+      "44"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mirian Moreno Sánchez",
+    "country": "Mexico",
+    "vessel": "Shireen",
+    "notes": "Geoscientist",
+    "refs": [
+      "44"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Youssef Khalil",
+    "country": "New Zealand",
+    "vessel": null,
+    "notes": "[45]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Youssef Sammour",
+    "country": "New Zealand",
+    "vessel": null,
+    "notes": "[45]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Eline Norli",
+    "country": "Norway",
+    "vessel": null,
+    "notes": "[46]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mushtaq Ahmad Khan",
+    "country": "Pakistan",
+    "vessel": "[47]",
+    "notes": "Former Senator of Pakistan",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Syed Uzair Nizami",
+    "country": "Pakistan",
+    "vessel": "[48][49]",
+    "notes": "activist",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mazhar Saeed Shah",
+    "country": "Pakistan",
+    "vessel": "[49][50]",
+    "notes": "AJK information minister (Return halfway due to boat technical failure)",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Omar Faris",
+    "country": "Poland",
+    "vessel": "Alma",
+    "notes": "Leader, Socio-Cultural Association of Polish Palestinians",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "PL"
+  },
+  {
+    "name": "Franciszek Sterczewski",
+    "country": "Poland",
+    "vessel": "[13]",
+    "notes": "Polish member of parliament",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Ewa Jasiewicz",
+    "country": "Poland",
+    "vessel": "[13]",
+    "notes": "Polish-British citizen, journalist",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Nina Ptak",
+    "country": "Poland",
+    "vessel": "[13]",
+    "notes": "Head of the Nomada non-governmental organisation. On 4 October 2025 it was reported that Ptak had begun a hunger strike while in Israeli custody.[51]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mariana Mortágua",
+    "country": "Portugal",
+    "vessel": "[52]",
+    "notes": "economist and politician",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Miguel Duarte",
+    "country": "Portugal",
+    "vessel": null,
+    "notes": "[52]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sofia Aparício",
+    "country": "Portugal",
+    "vessel": "[52]",
+    "notes": "actress",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Ognjen Marković",
+    "country": "Serbia",
+    "vessel": "Adara",
+    "notes": "FLU student",
+    "refs": [
+      "6",
+      "53"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "CS"
+  },
+  {
+    "name": "Peter Švestka",
+    "country": "Slovakia",
+    "vessel": "Hio",
+    "notes": "[54]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "SK"
+  },
+  {
+    "name": "Mandla Mandela",
+    "country": "South Africa",
+    "vessel": "Alma",
+    "notes": "grandson of Nelson Mandela",
+    "refs": [
+      "55"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Fatima Hendricks",
+    "country": "South Africa",
+    "vessel": "Amsterdam",
+    "notes": "Amsterdam",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ZA"
+  },
+  {
+    "name": "Zaheera Soomar",
+    "country": "South Africa",
+    "vessel": "Fair Lady",
+    "notes": "Fair Lady",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ZA"
+  },
+  {
+    "name": "Reaaz Moola",
+    "country": "South Africa",
+    "vessel": "Florida",
+    "notes": "Florida",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Zukiswa Wanner",
+    "country": "South Africa",
+    "vessel": "Florida",
+    "notes": "Florida",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ZA"
+  },
+  {
+    "name": "Carolyn Amanda Shelver",
+    "country": "South Africa",
+    "vessel": "Wahoo",
+    "notes": "Wahoo",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ZA"
+  },
+  {
+    "name": "Ada Colau",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "former Mayor of Barcelona/organizer & participant",
+    "refs": [
+      "56"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Pilar Castillejo",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "Deputy in the Parliament of Catalonia",
+    "refs": [
+      "57"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Saturnino Mercader",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "Syndicalist",
+    "refs": [
+      "58"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Serigne Mbayé",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "Activist, former deputy in the Assembly of Madrid",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Celia Vélez Lucena",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "teacher, naval engineer",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Simón Francisco Vidal Ferrandis",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "sailor",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Itziar Moreno Martínez",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Jose Javier Oses Carrasco",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "Sirius",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Juan Bordera Romá",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "deputy in the Parliament of the Valencian Community",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Luay Al Bacha Al Farra",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "photographer, filmmaker",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Manuel García Morales",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "journalist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Sofía Bucho Lahuerta",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "teacher, social worker",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Sandra Garrido",
+    "country": "Spain",
+    "vessel": "Sirius",
+    "notes": "lawyer",
+    "refs": [
+      "60"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Alonso Quintero Boza",
+    "country": "Spain",
+    "vessel": "Alma",
+    "notes": "journalist of al-Jazeera",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Francesc Jofra Carrasco",
+    "country": "Spain",
+    "vessel": "Alma",
+    "notes": "energy consultant",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": true,
+    "country_code": "ES"
+  },
+  {
+    "name": "Gulcin Bekar Basaran",
+    "country": "Spain",
+    "vessel": "Alma",
+    "notes": "Videographer, filmmaker",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Laia Rosell Sancho",
+    "country": "Spain",
+    "vessel": "Alma",
+    "notes": "activist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": true,
+    "country_code": "ES"
+  },
+  {
+    "name": "Adrià Plazas Vidal",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "physicist, activist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Ana María Alcalde Callejas",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "social worker, influencer",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": true,
+    "country_code": "ES"
+  },
+  {
+    "name": "Ariadna Masmitjà Marín",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "activist, teacher",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Eduard Lucas Camacho",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "syndicalist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Francisco Rodríguez Martínez",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "syndicalist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Jordi Coronas Martorell",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "Barcelona city councillor",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Nestor Prieto Amador",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "journalist",
+    "refs": [
+      "59",
+      "61"
+    ],
+    "status": null,
+    "has_video": true,
+    "country_code": "ES"
+  },
+  {
+    "name": "Nicole Montserrat Leon Avilés",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "artist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Reyes Rigo Cervilla",
+    "country": "Spain",
+    "vessel": "Adara",
+    "notes": "Adara",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Carles Lleó Paulo Noguera",
+    "country": "Spain",
+    "vessel": "Aurora",
+    "notes": "sailor",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Lucía Muñoz Dalda",
+    "country": "Spain",
+    "vessel": "Huga",
+    "notes": "former deputy in the Congress of Deputies, town councillor",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Alejandra Martínez Velasco",
+    "country": "Spain",
+    "vessel": "Huga",
+    "notes": "jurist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Alicia Amparo Armesto Núñez",
+    "country": "Spain",
+    "vessel": "Huga",
+    "notes": "journalist",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Carlos Barron García",
+    "country": "Spain",
+    "vessel": "Captain Nikos",
+    "notes": "journalist from El País",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Ana María Martín López",
+    "country": "Spain",
+    "vessel": "Jeannot III",
+    "notes": "journalist, professor",
+    "refs": [
+      "59"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Rafael Borrego Peña",
+    "country": "Spain",
+    "vessel": "Jeannot III",
+    "notes": "lawyer",
+    "refs": [
+      "59",
+      "62"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Manuel López Calvo",
+    "country": "Spain",
+    "vessel": "Meteque",
+    "notes": "sailor",
+    "refs": [
+      "60"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "José Luis Ybot",
+    "country": "Spain",
+    "vessel": "Meteke",
+    "notes": "activist, sound technician",
+    "refs": [
+      "60"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Abdel Karim El Khamlichi Mohamed",
+    "country": "Spain",
+    "vessel": "Meteque",
+    "notes": "Meteke",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Goretti Sarasibar",
+    "country": "Spain",
+    "vessel": "Estrella y Manuel",
+    "notes": "sailor",
+    "refs": [
+      "60"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Santiago Oliver",
+    "country": "Spain",
+    "vessel": "Estrella y Manuel",
+    "notes": "Estrella y Manuel",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sofía Peris Sánchez",
+    "country": "Spain",
+    "vessel": "Estrella Y Manuel",
+    "notes": "Estrella y Manuel",
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "ES"
+  },
+  {
+    "name": "Eva Nistal",
+    "country": "Spain",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Marta Mallach",
+    "country": "Spain",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Guillem Esteban Valera",
+    "country": "Spain",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Juan Carlos de la Rubia Panos",
+    "country": "Spain",
+    "vessel": "Catalina",
+    "notes": "Catalina",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Lluis de Moner Maians",
+    "country": "Spain",
+    "vessel": "Inana",
+    "notes": "Inana",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Jesús Manuel Alonso Valera",
+    "country": "Spain",
+    "vessel": "Inana",
+    "notes": "activist",
+    "refs": [
+      "60"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Daniel Masso Roca",
+    "country": "Spain",
+    "vessel": "Inana",
+    "notes": "Inana",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Miguel Zuluaga Uriarte",
+    "country": "Spain",
+    "vessel": "Inana",
+    "notes": "Inana",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Anna Ruiz Bernardos",
+    "country": "Spain",
+    "vessel": "Selvaggia",
+    "notes": "Selvaggia",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "ES"
+  },
+  {
+    "name": "Jimena González",
+    "country": "Spain",
+    "vessel": "[64]",
+    "notes": "deputy in the Assembly of Madrid, trans activist",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Greta Thunberg",
+    "country": "Sweden",
+    "vessel": "[65]",
+    "notes": "climate activist/steering committee member",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Gustaf Skarsgård",
+    "country": "Sweden",
+    "vessel": "[3]",
+    "notes": "Swedish actor",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Irana Wilson",
+    "country": "Sweden",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "SE"
+  },
+  {
+    "name": "Clément Froidevaux",
+    "country": "Switzerland",
+    "vessel": null,
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Jeremy Chevalley",
+    "country": "Switzerland",
+    "vessel": "Grande Blu",
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "CH"
+  },
+  {
+    "name": "Marc Formosa",
+    "country": "Switzerland",
+    "vessel": "Captain Nikos",
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "CH"
+  },
+  {
+    "name": "Mehmet Türkkan",
+    "country": "Switzerland",
+    "vessel": null,
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Lionel Simonin",
+    "country": "Switzerland",
+    "vessel": "Captain Nikos",
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "CH"
+  },
+  {
+    "name": "Rahim Mercan",
+    "country": "Switzerland",
+    "vessel": "Free Willy",
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "CH"
+  },
+  {
+    "name": "Stéphane Amiguet",
+    "country": "Switzerland",
+    "vessel": "Captain Nikos",
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "CH"
+  },
+  {
+    "name": "Tabea Zaugg",
+    "country": "Switzerland",
+    "vessel": "Aurora",
+    "notes": "[66]",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "CH"
+  },
+  {
+    "name": "Houssameddine bin Taher",
+    "country": "Tunisia",
+    "vessel": null,
+    "notes": "[67]",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sema Silkin Ün",
+    "country": "Turkey",
+    "vessel": "[68]",
+    "notes": "Member of Parliament (Future Party, Denizli)",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Mehmet Atmaca",
+    "country": "Turkey",
+    "vessel": "[68]",
+    "notes": "Member of Parliament (HÜDA PAR)",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Necmettin Çalışkan",
+    "country": "Turkey",
+    "vessel": "[68]",
+    "notes": "Member of Parliament (Felicity Party)",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Faruk Dinç",
+    "country": "Turkey",
+    "vessel": "[68]",
+    "notes": "Member of Parliament (HÜDA PAR, Mersin)",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Aycin Kantoglu",
+    "country": "Turkey",
+    "vessel": "[68]",
+    "notes": "translator & activist, civil society representative",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Ikbal Gurpinar",
+    "country": "Turkey",
+    "vessel": "[68]",
+    "notes": "TV presenter, producer & writer",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Abdulsamed Turan",
+    "country": "Turkey",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "TR"
+  },
+  {
+    "name": "Hasmet Yazici",
+    "country": "Turkey",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": true,
+    "country_code": "TR"
+  },
+  {
+    "name": "Yasar Yavuz",
+    "country": "Turkey",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "TR"
+  },
+  {
+    "name": "Ersin Celik",
+    "country": "Turkey",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "TR"
+  },
+  {
+    "name": "Semanur Yaman",
+    "country": "Turkey",
+    "vessel": null,
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Halil Canakci",
+    "country": "Turkey",
+    "vessel": null,
+    "notes": null,
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Hannah Sharpey-Schafer",
+    "country": "United Kingdom",
+    "vessel": "Hio",
+    "notes": "Hio",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "GB"
+  },
+  {
+    "name": "Jim Hickey",
+    "country": "United Kingdom",
+    "vessel": "Seulle",
+    "notes": "Seulle",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Sid Khan",
+    "country": "United Kingdom",
+    "vessel": "Seulle",
+    "notes": "Seulle",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Margaret Pancetta",
+    "country": "United Kingdom",
+    "vessel": "Seulle",
+    "notes": "Seulle",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Yvonne Ridley",
+    "country": "United Kingdom",
+    "vessel": "Omar al-Mukhtar",
+    "notes": "Omar al-Mukhtar",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Carson Amanda Blanton",
+    "country": "United States",
+    "vessel": "Paola I",
+    "notes": "Paola I",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "US"
+  },
+  {
+    "name": "Jessica Kaye Clotfelter",
+    "country": "United States",
+    "vessel": "Ohwayla",
+    "notes": "Veteran, United States Marine Corps",
+    "refs": [
+      "70"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "US"
+  },
+  {
+    "name": "Alex Colston",
+    "country": "United States",
+    "vessel": "[71]",
+    "notes": "Editor, Drop Site News",
+    "refs": [],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Susan Jernstedt",
+    "country": "United States",
+    "vessel": "Ohwayla",
+    "notes": "Veteran, United States Army",
+    "refs": [
+      "70"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Zuleyka Morales Rivera",
+    "country": "United States",
+    "vessel": "Ohwayla",
+    "notes": "Veteran, United States Marine Corps",
+    "refs": [
+      "70"
+    ],
+    "status": null,
+    "has_video": false,
+    "country_code": "US"
+  },
+  {
+    "name": "Greg Stoker",
+    "country": "United States",
+    "vessel": "Ohwayla",
+    "notes": "Veteran, United States Army",
+    "refs": [
+      "70"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Philip Tottenham",
+    "country": "United States",
+    "vessel": "Ohwayla",
+    "notes": "Veteran, United States Marine Corps",
+    "refs": [
+      "70"
+    ],
+    "status": null,
+    "has_video": false
+  },
+  {
+    "name": "Ana Zugarramurdi Garcia",
+    "country": "Uruguay",
+    "vessel": "Jeannot III",
+    "notes": "Jeannot III",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "UY"
+  },
+  {
+    "name": "Rodrigo Andres Ciz Mendez",
+    "country": "Uruguay",
+    "vessel": "Maria Cristina",
+    "notes": "Maria Cristina",
+    "refs": [],
+    "status": null,
+    "has_video": false,
+    "country_code": "UY"
+  },
+  {
+    "name": "Arslan Alpaslan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Hakan Simsek",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Houssem Eddine Rmadi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Memet Emin Aydin",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Salih Dali",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohammed-Zakaria Bendadda",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhammet Fatih Sinan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ozkan Zeynell Abidin",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Yunus Demir",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Adagio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ariadne Catarina Cardoso Teles",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Arlin Gabriela Medrano Guzman",
+    "country": "Mexico",
+    "country_code": "MX",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Evie Rose Snedker",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Kieran Isaac Fabien Andrieu",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Maria Pilar Castillejo Medina",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mariana Rodrigues Mortagua",
+    "country": "Portugal",
+    "country_code": "PT",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nicole Montserrathe Leon Aviles",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Saddaqat Khan",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Samuel Rostol",
+    "country": "Norway",
+    "country_code": "NO",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Saturnino Mercader Talavera",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Adara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Alexandros Delatolas",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Evgenia Kavvadia",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Giuseppina Branca",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lucie Christine Micheline Fouquet",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Maria Kosmidi",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nikolaos Aravidis",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nikolaos Liapouris",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Vasileios Manoudakis",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Ahed Tamimi",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Clement Loic Froidevaux",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "All In",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ewa Maria Jasiewicz",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "All In",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Hussain Sijaad",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "All In",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Malcom Geoffrey Ducker",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "All In",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Meriem Chikh",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "All In",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Halil Ibrahim Sehidoglu",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Hamza Bouzouida",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Louay Cherni",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohammad HHH Jamal",
+    "country": "Kuwait",
+    "country_code": "KW",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mouheb Snoussi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mushtaq Ahmad",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Zied Jaballah",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Allakatalla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdulla Younis Mohammed Ghabbash",
+    "country": "Jordan",
+    "country_code": "JO",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ahmad Musa Alnuwayri Bin Kamaruzaman",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Brahim Marzouk",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Christopher Paul Hausler",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Greta Tintin Eleonora Ernman Thunberg",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Huseyin Suayb Ordu",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Iylia Balqis Binti Suhaimi",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Kubra Emine Cinar",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Leila Monique Hegazy",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Metehan Sari",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Onur Murat Kolgu",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Osman Cetinkaya",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Semih Fener",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Simone Zambrin",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Stephen George Wahab",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sul Aidil Bin Sudi",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sumeyra Akdeniz Ordu",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Thiago de Avila e Silva Oliveira",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Younes Ait Yassin",
+    "country": "Morocco",
+    "country_code": "MA",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Zwelivelile Mandelsizwe Dalibhunga Mandela",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "vessel": "Alma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abderrazak Makri",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdolkoddous Elgafsi",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ahmed Fouzi Bouaziz",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ammar Ounnas",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mahdi Makhloufi",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Ali Mohieddine",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nacereddine Drici",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Zoubida Kherbache",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Amsterdam",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Catriona Graham",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Federica Frasca",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Gonzalo Nestor Fabian Di Pretoro",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Irene Soldati",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Marco Orefice",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Maria Ester Rodriguez Gallardo",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Olfa Lamloum",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sara Masi",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sarka Prikrylova",
+    "country": "Czech Republic",
+    "country_code": "CZ",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Thomas Guénolé",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Aurora",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Bekir Develi",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Enes Harman",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Erdem Ozveren",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Fethullah Badem",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Haci Durak",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Hatice Kbal Gurpinar",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Muhammed Emin Isik",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Sait Karahsan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Australe",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdullah Gundem",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lyna Al Tabal Peron",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Malika Baouya",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Maria Anna Barsefski",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Mustafa Cakici",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Pascal Marie Marcel Andre",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Umut Aslan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Captain Nikos",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Aleksandras Chichlovskij",
+    "country": "Lithuania",
+    "country_code": "LT",
+    "vessel": "Catalina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Eva Nistal Marcos",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Catalina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Marta Mallach Perez",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Catalina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Aaron White",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdallah Messaoudi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Abdelfattah Chekhnaba",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdelkadir Ammour",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdellah Habib Taleb",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abderrachid Korichi",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ayoub Habraoui",
+    "country": "Morocco",
+    "country_code": "MA",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Aziz Meliani",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Aziz Rhali",
+    "country": "Morocco",
+    "country_code": "MA",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Geraldine Ramirez",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Ghassen Henchiri",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Marouane Mohammed Ben Guettaia",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mazan Abdellaoui",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Mohamed Ben Alouane",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohammed Selmane",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nabil Channoufi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Nour Eddine Salouej",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Sirine Ghrairi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Sumeyye Sena Polat",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Tayeb Mahdane",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Wael Naouar",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Yassine Gaidi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Dir Yassine (Mali)",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Goretti Sarasibar Telechea",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "James Griffin",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Michela Monte",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohd Asmawi Bin Mukhtar",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Noe Pierre Gauchard",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Norazman Bin Ishak",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Norhelmi Bin Ab Ghani",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Rahmat Ikhsan Bin Mohd Sofyan",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Santiago Oliver Andrés",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Estrella Y Manuel",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Diego Vazquez Galindo",
+    "country": "Mexico",
+    "country_code": "MX",
+    "vessel": "Fair Lady",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhammad Hidayat Bin Abdullah",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Fair Lady",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Patrick Kelly",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Fair Lady",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Patrick O'Donovan",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Fair Lady",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Zainal Rashid Bin Ahmad",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Fair Lady",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdeladim Bendraoui",
+    "country": "Morocco",
+    "country_code": "MA",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Achraf Khoja",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Anis Abassi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Bianca Zoe Webb Pullman",
+    "country": "Australia",
+    "country_code": "AU",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Evren Akan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Leslie Carole Navarino",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lotfi Hajji",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Ali",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Mrad",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhammet Emin Yildirim",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Reaaz Ismail Moola",
+    "country": "South Africa",
+    "country_code": "ZA",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Shifa Abdirashid Abdi",
+    "country": "Finland",
+    "country_code": "FI",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Turgay Turan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Youssef Ghallal",
+    "country": "Morocco",
+    "country_code": "MA",
+    "vessel": "Florida",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Mehmet Keçel Turkkan",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Free Willy",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhammad Hareez Bin Adzrami",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Free Willy",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhd Haikal Luqman bin Zulkefli",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Free Willy",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Taufiq Bin Mohd Razif",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Free Willy",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Danish Nazran Bin Murad",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Halil Rifat Canakci",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Luizianne De Oliveira Lins",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nurfarahin binti Romli",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Vasil Nikoleav Dimitrov",
+    "country": "Bulgaria",
+    "country_code": "BG",
+    "vessel": "Grande Blu",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Colm Peter Byrne",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Hio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Luna Valentina Barreto Arango",
+    "country": "Colombia",
+    "country_code": "CO",
+    "vessel": "Hio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Manuela Bedoya Jaramillo",
+    "country": "Colombia",
+    "country_code": "CO",
+    "vessel": "Hio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nur Hazwani Afiqah binti Helmi",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Hio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nur Heliza Helmi",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Hio",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Bianca Milacic",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Fatih Ozsoz",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Karolina Ptak",
+    "country": "Poland",
+    "country_code": "PL",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Khalil Lahbibi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lorena Olivia Delgado",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lucia Miriam Munoz Dalda",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mehmet Sait Direkci",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nur Fazelah Binti Mad Tahil",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Obaida Faraj",
+    "country": "Norway",
+    "country_code": "NO",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Rana Hamida",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sunniva Elise Gjellesvik Andresen",
+    "country": "Norway",
+    "country_code": "NO",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Tevhit Yildiz",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Torleif Rafeek Stumo",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Huga",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Adrien Jeremy Berthel",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Inana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Joelle Elizabeth Bonvin ep. Tischhauser",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Inana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lluis De Moner Mayans",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Inana",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Paul William Reid",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Inana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Razali Bin Awang",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Inana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Alexis Noel X. Deswaef",
+    "country": "Belgium",
+    "country_code": "BE",
+    "vessel": "Jeannot III",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Andrea Sebastiano Tribulato",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Jeannot III",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Eric Jason Lein",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Jeannot III",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lotta Camilla Eliason",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Jeannot III",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Yacine Haffaf",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Jeannot III",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Margherita Cioppi",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Karma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Michele Saponara",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Karma",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Paolo Romano",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Karma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Saverio Tommasi",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Karma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Tommaso Ferdinando Nogara Notarianni",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Karma",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Yassine Lafram",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Karma",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Fabrizio Francesco Giuseppe Ceppi",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Husamettin Eyupoglu",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Immanuel Heitor Idealen De Souza",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Jules Anatole Aladin Jassef",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Remy Pagani",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Roberto Ventrella",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Romain Mouron",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Samuel Oliver Crettenand",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sebastien Dubugnon",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Mango",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Andrea Canazza",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Maria Cristina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ergun Akpinar",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Maria Cristina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Hakan Kaya",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Maria Cristina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Tommaso Bortolazzi",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Maria Cristina",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Cameron John Tribe",
+    "country": "Australia",
+    "country_code": "AU",
+    "vessel": "Marinette",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Emine Gunes",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Marinette",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Omama Mustafa Mohammed Al Lawati",
+    "country": "Oman",
+    "country_code": "OM",
+    "vessel": "Marinette",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Omer Faruk Narli",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Marinette",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Selahattin Ozdemir",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Marinette",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Sinan Akilotu",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Marinette",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Anthony (Tadgh) Hickey",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Meteque",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Elin Andrea Stadra",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Meteque",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Iara Kaiser",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Meteque",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Jose Luis Ybot Gonzalez",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Meteque",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Tim Oschitzki",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Meteque",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Vincent Alexender Storm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Meteque",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Emilien Urbach",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Fidaa Athmi",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ghassen Klai",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ismael Wadih",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Menaf Al-Basri",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Amine Hamzaoui",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nora Rosa Feliens Huberty",
+    "country": "Luxembourg",
+    "country_code": "LU",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Quentin Foucault Reva Viard",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Sarah Loise Wilkinson",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Miamia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Adnaan Michael Stumo",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "João Leonardo Cavalcanti Aguiar Costa",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Maria Zenderera Valsecchi",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Meryem Belhaj",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Michael Fix",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhemmed Huzeyfe Kucukaytekin",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nurul Hidayah Binti Mohd Amin",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Vegard Aasdal Svendsen",
+    "country": "Norway",
+    "country_code": "NO",
+    "vessel": "Mikeno",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ammar Al Halabi",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Anita Sol Lea Gabay",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Dominique Assegedetch De Haan",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Emmy Marianne Vonk",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Jasper Theodorus Nieuwkoop",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Moohmad Altayb Kotesh",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Roosje Ijkema",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Mohammad Bhar",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Carlo Alberto Biasioli",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Marco Croatti",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Miguel Castilho Soares Duarte",
+    "country": "Portugal",
+    "country_code": "PT",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Semanur Sonmez Yaman",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Morgana",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Christoforos Schuff O'Moore",
+    "country": "Norway",
+    "country_code": "NO",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "David Rashi Kremen Adler",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ernesto Ledesma Arronte",
+    "country": "Mexico",
+    "country_code": "MX",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Gregory James Stoker",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Iida-Liina Linnea Hakkinen",
+    "country": "Finland",
+    "country_code": "FI",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Logan Thomas Hollarsmith",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Philip Kuper Tottenham",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Renaz Ebrahimi",
+    "country": "Finland",
+    "country_code": "FI",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Susan Carole Jernstedt",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Thomas George Marcus",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Windfield Moon Beaver",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Ohwayla",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Evangelos Alexandros Apostolakis",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Oxygono",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Georgios Iason Apostolopoulos",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Oxygono",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Kleoniki Alexopoulou Giannakitsa",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Oxygono",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Ploutarchos Nikolaos Vergis",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Oxygono",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Vasileios Rongas",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Oxygono",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Abderrahmane Amajou",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Dane Cassidy Hunter",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ipshita Rajesh",
+    "country": "Sweden",
+    "country_code": "SE",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Judith Erika Ilse Scheytt",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lamia Merdjani",
+    "country": "Algeria",
+    "country_code": "DZ",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Louna Sbou",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mary Almai",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Yassine Benjelloun",
+    "country": "Morocco",
+    "country_code": "MA",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Sander Theodorus de Koning",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Paola I",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Angeliki Savvantoglou",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Anna Lagonikou",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Ioanna Vrettou",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Konstantinos Fourikos",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Konstantinos Lampridis",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Kyriakos Georgios Vlachopoulos",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Panagiotis Politis",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Parisis Laftsis-Skretas",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Theodoros Boukas",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Pavlos Fyssas",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Diogo De Arriaga E Chunha Matos Chaves",
+    "country": "Portugal",
+    "country_code": "PT",
+    "vessel": "Selvaggia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Gessica Lastrucci",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Selvaggia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Luca Viani",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Selvaggia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mahe Meya Oliva-Sery De Mezieres",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Selvaggia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Steve Robert Mercier",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Selvaggia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Timothee Michel Robert Crettenand",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Selvaggia",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "James Anthony Hickey",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Julian Schuetter",
+    "country": "Austria",
+    "country_code": "AT",
+    "vessel": "Seulle",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdulaziz Yalcin",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Ada Colau Ballano",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Alexander Lee Colston",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Bruno Sperb Rocha",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Davut Daskiran",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Diarmuid Mac Dubhglais",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Don Simon Francisco Vidal Ferrandis",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Enzo Dominique Pianetti",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Fikret Aycin Kantoglu",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Franciszek Wojciech Sterczewski",
+    "country": "Poland",
+    "country_code": "PL",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Jasmine Sau Mun Ikeda",
+    "country": "United States",
+    "country_code": "US",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Jihed Ferjani",
+    "country": "Tunisia",
+    "country_code": "TN",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Lisiane Prenca Severo",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Luay Al Bacha El Farra",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Magno De Carvalho Costa",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mariana Conti Takahashi",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Marie Mesmeur",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohammad Zulfadhli Bin Khiruddin",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohd Rusydi Bin Ramli",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhammad Haikal Bin Abdullah",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muhammad Muaz Bin Zain Al Abiddin",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Nicolas Calabrese",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Omer Osman Tastan",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Samia Helmi Abdelmomen Abdallah",
+    "country": "Jordan",
+    "country_code": "JO",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Samuel Francis Star Leason",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sandra Garrido Fernandez",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Serigne Mbaye Diouf",
+    "country": "Spain",
+    "country_code": "ES",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sofia Delgado Cardoso Dos Santos Aparicio",
+    "country": "Portugal",
+    "country_code": "PT",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Thomas Doherty McCune",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Zeynep Tekocak",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Sirius",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdel Rahman Y. D Ghazal",
+    "country": "Jordan",
+    "country_code": "JO",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdullah MSSM Al Mutawa",
+    "country": "Kuwait",
+    "country_code": "KW",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abdulmecid Bagcivan",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Abubakir Mohammad Rafiq",
+    "country": "Australia",
+    "country_code": "AU",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Bekir Turunc",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Cakar Mesut",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Christopher Andrews",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Elias Thiele",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Frank Joseph Romano",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Hasan Kuyuldar",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Khaled Bdiwi",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Khalid MSYS Alabduljader",
+    "country": "Kuwait",
+    "country_code": "KW",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Latifa Gharbaoui Khlifi",
+    "country": "Belgium",
+    "country_code": "BE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mariam Kassem",
+    "country": "Germany",
+    "country_code": "DE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamad Sami El Kadri",
+    "country": "Brazil",
+    "country_code": "BR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mohamed Ali Belkaid",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Muslim Ziyali",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Mustafa Muhammed Cakmakci",
+    "country": "Turkey",
+    "country_code": "TR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Prune Anne Marie Missoffee Panico",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sarah Catherine Clancy",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Charalampos Bikas",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Elise Marie Joséphine Gressot",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "François Jacques Benoit Piquemal",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Grigorios Kasitas",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Justine Anne Kempf",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Khaled Benboutrif",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Marina Meintani",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Pantelis Louvros",
+    "country": "Greece",
+    "country_code": "GR",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Shady Ammane",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Spectre",
+    "notes": null,
+    "refs": [],
+    "has_video": true
+  },
+  {
+    "name": "Cedric Jacques Paul Caubere",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Frances Jane Cumings",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Hamish Louis Paterson",
+    "country": "Australia",
+    "country_code": "AU",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Laura Alejandra Velez Ruiz Gaitan",
+    "country": "Mexico",
+    "country_code": "MX",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Sil Jacobus Alexander Kiewiet De Jonge",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Susanna Bargauan",
+    "country": "Italy",
+    "country_code": "IT",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Vanni Zeno Simone Bianconi",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "vessel": "Wahoo",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Cormac Kevin O'Daly",
+    "country": "Ireland",
+    "country_code": "IE",
+    "vessel": "Yulara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Eline Froysa Norli",
+    "country": "Norway",
+    "country_code": "NO",
+    "vessel": "Yulara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Fiona Constance Alihosi Mischel",
+    "country": "France",
+    "country_code": "FR",
+    "vessel": "Yulara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  },
+  {
+    "name": "Youssef Khalil Youssef Sammour",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "vessel": "Yulara",
+    "notes": null,
+    "refs": [],
+    "has_video": false
+  }
+]

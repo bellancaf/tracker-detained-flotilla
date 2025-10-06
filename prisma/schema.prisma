@@ -1,0 +1,87 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Mission {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  activists Activist[]
+
+  @@map("missions")
+}
+
+model Activist {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  nationality String
+  boatName    String   @map("boat_name")
+  status      String   // e.g., "detained", "released", "missing", etc.
+  videoUrl    String?  @map("video_url") // Optional video URL
+  missionId   String   @map("mission_id")
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt @map("updated_at")
+
+  // Relations
+  mission        Mission         @relation(fields: [missionId], references: [id], onDelete: Cascade)
+  timelineEvents TimelineEvent[]
+  submissions   Submission[]
+
+  @@map("activists")
+}
+
+model TimelineEvent {
+  id           String   @id @default(cuid())
+  activistId   String   @map("activist_id")
+  eventDate    DateTime @map("event_date")
+  sourceTitle  String   @map("source_title")
+  description  String
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  // Relations
+  activist Activist @relation(fields: [activistId], references: [id], onDelete: Cascade)
+
+  @@map("timeline_events")
+}
+
+model Submission {
+  id           String   @id @default(cuid())
+  activistId   String?  @map("activist_id") // Optional - can be for new activists
+  eventDate    DateTime @map("event_date")
+  sourceTitle  String   @map("source_title")
+  description  String
+  submitterEmail String @map("submitter_email")
+  status       String   @default("pending") // "pending", "approved", "rejected"
+  createdAt    DateTime @default(now()) @map("created_at")
+  reviewedAt   DateTime? @map("reviewed_at")
+
+  // Relations
+  activist Activist? @relation(fields: [activistId], references: [id], onDelete: SetNull)
+
+  @@map("submissions")
+}
+
+model GeneralNews {
+  id           String   @id @default(cuid())
+  title        String
+  description  String
+  sourceUrl    String   @map("source_url") // Required link for general news
+  submitterEmail String @map("submitter_email")
+  status       String   @default("pending") // "pending", "approved", "rejected"
+  createdAt    DateTime @default(now()) @map("created_at")
+  reviewedAt   DateTime? @map("reviewed_at")
+
+  @@map("general_news")
+}
