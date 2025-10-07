@@ -142,6 +142,34 @@ export default function AdminPage() {
     }
   }
 
+  const handleBulkSubmissionAction = async (submissionIds: string[], action: 'approve' | 'reject') => {
+    if (!authCredentials) return
+    
+    try {
+      const headers = {
+        'Content-Type': 'application/json',
+        ...getAuthHeaders(authCredentials.email, authCredentials.password)
+      }
+      const response = await fetch('/api/admin/submissions/bulk', {
+        method: 'PATCH',
+        headers,
+        body: JSON.stringify({
+          submissionIds,
+          action
+        }),
+      })
+
+      if (response.ok) {
+        // Refresh submissions
+        fetchSubmissions()
+      } else {
+        setError(`Failed to ${action} submissions`)
+      }
+    } catch (err) {
+      setError('Network error')
+    }
+  }
+
   const handleActivistUpdate = async (activistId: string, updates: Partial<Activist>) => {
     if (!authCredentials) return
     
@@ -310,6 +338,7 @@ export default function AdminPage() {
             <AdminSubmissions 
               submissions={submissions}
               onAction={handleSubmissionAction}
+              onBulkAction={handleBulkSubmissionAction}
               filter={submissionFilter}
             />
           </>

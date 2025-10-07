@@ -17,6 +17,11 @@
     "db:import": "tsx scripts/import-activists.ts",
     "db:import:clear": "tsx scripts/import-activists.ts --clear",
     "db:import:update": "tsx scripts/import-activists.ts",
+    "bulk-news-update": "tsx scripts/run-bulk-news-update.ts",
+    "bulk-news-update:dry": "tsx scripts/run-bulk-news-update.ts --dry-run",
+    "test-search": "tsx scripts/test-search.ts",
+    "test-analysis": "tsx scripts/analyze-articles.ts",
+    "debug-duckduckgo": "tsx scripts/debug-duckduckgo.ts",
     "setup": "npm run db:generate && npm run db:push && npm run db:setup"
   },
   "dependencies": {
@@ -25,9 +30,12 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "next": "14.0.4",
+    "openai": "^4.20.1",
     "postcss": "^8",
     "react": "^18",
     "react-dom": "^18",
@@ -35,7 +43,10 @@
     "typescript": "^5"
   },
   "devDependencies": {
+    "@types/puppeteer": "^7.0.4",
     "prisma": "^5.7.1",
+    "puppeteer": "^24.23.0",
+    "python-shell": "^5.0.0",
     "tsx": "^4.6.2"
   }
 }
